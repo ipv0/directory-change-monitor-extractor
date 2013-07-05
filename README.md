@@ -16,6 +16,11 @@ the script automatically unpacks it into a different directory on the background
 Then it continues watching.
 
 
+#### Dependencies
+
+Uses command line *rar* to extract the archives (*rar.exe* on Windows, comes with WinRar and can be found it its directory).
+
+
 #### Why?
 
 Because extracting multipart RARs for scene releases can become bothersome.  
