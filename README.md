@@ -18,7 +18,7 @@ Then it continues watching.
 
 #### Dependencies
 
-Uses command line *rar* to extract the archives (*rar.exe* on Windows, comes with WinRar and can be found it its directory).
+Uses command line *rar* to extract the archives ( *rar.exe* on Windows, comes with WinRar and can be found in its directory ).
 
 
 #### Why?
